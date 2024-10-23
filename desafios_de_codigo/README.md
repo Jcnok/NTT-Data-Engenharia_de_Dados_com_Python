@@ -31,7 +31,7 @@ Este repositório contém uma série de desafios focados em análise de dados us
 
 
 
-# [Desafio 1](#indice)
+# Desafio 1
 <a name="desafio-1"></a>
 
 # Descrição do Desafio
@@ -122,7 +122,7 @@ print(analise_vendas(vendas))
 
 [Voltar ao Índice](#indice)
 
-# [Desafio 2](#indice)
+# Desafio 2
 <a name="desafio-2"></a>
 
 # Identificando os Produtos Mais Vendidos
@@ -226,7 +226,7 @@ print(produto_mais_vendido(produtos))
 
 [Voltar ao Índice](#indice)
 
-# [Desafio 3](#indice)
+# Desafio 3
 <a name="desafio-3"></a>
 
 # Criando Classes para Dados de Vendas
@@ -362,7 +362,7 @@ if __name__ == "__main__":
 
 [Voltar ao Índice](#indice)
 
-# [Desafio 4](#indice)
+# Desafio 4
 <a name="desafio-4"></a>
 
 # Agrupamento de Vendas por Categoria
