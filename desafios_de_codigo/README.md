@@ -19,6 +19,7 @@ Este repositório contém uma série de desafios focados em análise de dados us
 **Agrupamento de Vendas por Categoria:** Neste desafio, você criará uma classe para agrupar vendas por categoria e calcular o total em cada uma.
 
 ---
+<a name="indice"></a>
 ## Índice
 
 1. [Desafio 1 - Análise de Vendas Mensais](#desafio-1)
