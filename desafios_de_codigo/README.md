@@ -1,6 +1,6 @@
 # Desafios de Análise de Dados com Python e Power BI
 
-![Capa](img/code.webp)
+<img src="img/code.webp" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 0px; width: 100%; height: 30vh; opacity: 1; object-position: center 50%;">
 
 ## Sobre
 
