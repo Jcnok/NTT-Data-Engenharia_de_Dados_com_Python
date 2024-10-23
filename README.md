@@ -5,7 +5,7 @@ Repositório com as resoluções dos desafios de projeto e desafios de código d
   <img src="img\capa.webp" align='center' alt="NTT DATA logo" width="309" height="144"/>
 </a>
 <a href="https://www.dio.me/users/julio_okuda">
-  <img src="[img\julio_okuda.png](https://hermes.dio.me/public-users/julio_okuda/share/7e8a53742303bad1f7afdab408b327c7.png)" align='center' alt="drawing" width="550" heigth="250"/>
+  <img src="https://hermes.dio.me/public-users/julio_okuda/share/7e8a53742303bad1f7afdab408b327c7.png" align='center' alt="drawing" width="550" heigth="250"/>
 </a>
 
 
