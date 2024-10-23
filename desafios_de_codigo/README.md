@@ -491,14 +491,5 @@ if __name__ == "__main__":
     Vendas em Eletrônicos: 1500.0
     Vendas em Móveis: 900.0
 
-
-
-## Índice
-
-1. [Desafio 1 - Análise de Vendas Mensais](#desafio-1)
-2. [Desafio 2 - Identificação de Produtos Mais Vendidos](#desafio-2)
-3. [Desafio 3 - Criação de Classes para Dados de Vendas](#desafio-3)
-4. [Desafio 4 - Agrupamento de Vendas por Categoria](#desafio-4)
-
 ---
 [Voltar ao Índice](#indice)
