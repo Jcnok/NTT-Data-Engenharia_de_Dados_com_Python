@@ -4,7 +4,7 @@ Aqui está o README conforme solicitado:
 
 Repositório com as resoluções dos desafios de projeto e desafios de código do bootcamp.
 
-<img src="img\NTT_logo.webp" align='center' alt="NTT DATA logo" width="250" height="250"/>
+<img src="img\capa.webp" align='center' alt="NTT DATA logo" width="250" height="250"/>
 
 ## Sobre:
 
@@ -22,8 +22,8 @@ Repositório com as resoluções dos desafios de projeto e desafios de código d
 
 * **Desafio de Projeto 1**: [Desafios de Projetos: Crie Um Portfólio Vencedor]()
 * **Desafio de Projeto 2**: [Contribuindo em um Projeto Open Source no GitHub]()
-* **Desafio de Projeto 3**: [Criando um Sistema Bancário com Python]()
-* **Desafio de Projeto 5**: [Otimizando o Sistema Bancário com Funções Python]()
+* **Desafio de Projeto 3**: [Criando um Sistema Bancário com Python](https://github.com/Jcnok/NTT-Data-Engenharia_de_Dados_com_Python/tree/master/desafios%20de%20projetos/desafio4#desafio---criando-um-sistema-banc%C3%A1rio-simples)
+* **Desafio de Projeto 5**: [Otimizando o Sistema Bancário com Funções Python](https://github.com/Jcnok/NTT-Data-Engenharia_de_Dados_com_Python/tree/master/desafios%20de%20projetos/desafio4#desafio---criando-um-sistema-banc%C3%A1rio-simples)
 * **Desafio de Projeto 4**: []()
 * **Desafio de Projeto 4**: []()
 * **Desafio de Projeto 4**: []()
