@@ -4,7 +4,7 @@ Aqui está o README conforme solicitado:
 
 Repositório com as resoluções dos desafios de projeto e desafios de código do bootcamp.
 
-<img src="img\capa.webp" align='center' alt="NTT DATA logo" width="250" height="250"/>
+<img src="img\capa.webp" align='center' alt="NTT DATA logo" width="309" height="144"/>
 
 ## Sobre:
 
