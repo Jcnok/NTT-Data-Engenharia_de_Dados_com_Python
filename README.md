@@ -1,8 +1,13 @@
 # Bootcamp NTT DATA - Analistas e Engenheiros de Dados
 
 Repositório com as resoluções dos desafios de projeto e desafios de código do bootcamp.
+<a>
+  <img src="img\capa.webp" align='center' alt="NTT DATA logo" width="309" height="144"/>
+</a>
+<a href="https://www.dio.me/users/julio_okuda">
+  <img src="img\julio_okuda.png" align='center' alt="drawing" width="550" heigth="250"/>
+</a>
 
-<img src="img\capa.webp" align='center' alt="NTT DATA logo" width="309" height="144"/>
 
 ## Sobre:
 
