@@ -4,19 +4,7 @@
 
 ## Sobre
 
-Este repositório contém uma série de desafios focados em análise de dados usando Python, visando integrar os conceitos ao Power BI para a criação de relatórios e visualizações. Abaixo está um resumo de cada desafio:
-
-### Desafio 1
-**Análise de Vendas Mensais:** Aqui, você calculará o total de vendas e a média mensal de vendas com Python para uso em relatórios.
-
-### Desafio 2
-**Identificação de Produtos Mais Vendidos:** Neste desafio, a tarefa é encontrar qual produto foi mais vendido, algo fundamental para análises de tendências em vendas.
-
-### Desafio 3
-**Criação de Classes para Dados de Vendas:** Aqui você implementará classes para gerenciar os dados de vendas e calcular o total em um formato mais estruturado.
-
-### Desafio 4
-**Agrupamento de Vendas por Categoria:** Neste desafio, você criará uma classe para agrupar vendas por categoria e calcular o total em cada uma.
+Este repositório contém uma série de desafios focados em análise de dados usando Python:
 
 ---
 <a name="indice"></a>
