@@ -2,10 +2,10 @@
 
 Repositório com as resoluções dos desafios de projeto e desafios de código do bootcamp.
 <a href="https://www.dio.me/bootcamp/engenharia-dados-python">
-  <img src="img\capa.webp" align='left' alt="NTT DATA logo" width="509" height="244"/>
+  <img src="img\capa.webp" align='center' alt="NTT DATA logo" width="509" height="244"/>
 </a>
 <a href="https://www.dio.me/users/julio_okuda">
-  <img src="https://hermes.dio.me/public-users/julio_okuda/share/7e8a53742303bad1f7afdab408b327c7.png" align='right' alt="drawing" width="550" heigth="250"/>
+  <img src="https://hermes.dio.me/public-users/julio_okuda/share/7e8a53742303bad1f7afdab408b327c7.png" align='center' alt="drawing" width="550" heigth="250"/>
 </a>
 
 
