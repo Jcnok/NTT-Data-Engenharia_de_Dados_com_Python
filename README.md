@@ -1,5 +1,3 @@
-Aqui está o README conforme solicitado:
-
 # Bootcamp NTT DATA - Analistas e Engenheiros de Dados
 
 Repositório com as resoluções dos desafios de projeto e desafios de código do bootcamp.
