@@ -43,3 +43,5 @@ Repositório com as resoluções dos desafios de projeto e desafios de código d
 * **Desafio de Código 2**: [Identificando os Produtos Mais Vendidos](https://github.com/Jcnok/NTT-Data-Engenharia_de_Dados_com_Python/tree/master/desafios_de_codigo#identificando-os-produtos-mais-vendidos)
 * **Desafio de Código 3**: [Criando Classes para Dados de Vendas](https://github.com/Jcnok/NTT-Data-Engenharia_de_Dados_com_Python/tree/master/desafios_de_codigo#criando-classes-para-dados-de-vendas)
 * **Desafio de Código 4**: [Agrupamento de Vendas por Categoria](https://github.com/Jcnok/NTT-Data-Engenharia_de_Dados_com_Python/tree/master/desafios_de_codigo#agrupamento-de-vendas-por-categoria)
+* **Desafio de Código 5**: [Fundamentos de Business Intelligence (BI)](https://github.com/Jcnok/NTT-Data-Engenharia_de_Dados_com_Python/tree/master/desafios_de_codigo#desafio-5)
+* **Desafio de Código 6**: [Fundamentos Sobre ETL](https://github.com/Jcnok/NTT-Data-Engenharia_de_Dados_com_Python/tree/master/desafios_de_codigo#desafio-6)

@@ -14,8 +14,8 @@ Este repositório contém uma série de desafios focados em análise de dados us
 2. [Desafio 2 - Identificação de Produtos Mais Vendidos](#desafio-2)
 3. [Desafio 3 - Criação de Classes para Dados de Vendas](#desafio-3)
 4. [Desafio 4 - Agrupamento de Vendas por Categoria](#desafio-4)
-5. [Desafio 6 - Fundamentos de Business Intelligence (BI)](#desafio-5)
-6. [Desafio 7 - Fundamentos Sobre ETL](#desafio-6)
+5. [Desafio 5 - Fundamentos de Business Intelligence (BI)](#desafio-5)
+6. [Desafio 6 - Fundamentos Sobre ETL](#desafio-6)
 
 
 ---
